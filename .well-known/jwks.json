@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "kid": "aws-v1",
+      "use": "sig",
+      "alg": "RS256",
+      "n": "2Wucv4VKGDbWHhLae2bL5dxiNYK8zj69rxsZdKu1GVPBYoO9Q1yrSPXOK1tVU3AOAi6YOETUaTfnRrMBRVTFffCFXpnUauReTL2sZXWb5ws-Wj6opkV6TFH8AS5-k6gdvx6twV6KAWJgsDz5pVzUmL31twBqIrdKnJZz2y1_tpqqekUcurmXLKxh83lQVazAWRzG1pZQKy0Q_BW0Z5Ip8FQ96No_4SNfN6yt685xvGUhoXYb5RJKrjJ1w77ELUKks1KwC2vZ3xkiXVKSQvXbV26rpcbna7IYsL39MpqMYIDZmW4FIePoUM0Meq28FSJ886jWV1ztTCMjipPDNFAmhw",
+      "e": "AQAB"
+    }
+  ]
+}
